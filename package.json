@@ -1,0 +1,20 @@
+{
+  "name": "elementum-challenge-solution",
+  "version": "1.0.0",
+  "description": "During the NodeConfAR 2017 Elementum throw a challenge to win an awesome drone, here's the solution",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagox/elementum-challenge-solution.git"
+  },
+  "keywords": [
+    "elementum",
+    "nodeconfar17",
+    "challenge"
+  ],
+  "author": "Santiago Rojo <tiagox@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/tiagox/elementum-challenge-solution/issues"
+  },
+  "homepage": "https://github.com/tiagox/elementum-challenge-solution#readme"
+}
