@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/tiagox/elementum-challenge-solution/issues"
   },
-  "homepage": "https://github.com/tiagox/elementum-challenge-solution#readme"
+  "homepage": "https://github.com/tiagox/elementum-challenge-solution#readme",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "elementum-challenge": "^1.0.1"
+  }
 }
