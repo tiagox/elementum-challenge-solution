@@ -20,6 +20,7 @@
   "dependencies": {
     "base-64": "^0.1.0",
     "elementum-challenge": "^1.0.1",
+    "jimp": "^0.2.28",
     "socket.io-client": "^2.0.4"
   }
 }
