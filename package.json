@@ -19,6 +19,7 @@
   "homepage": "https://github.com/tiagox/elementum-challenge-solution#readme",
   "dependencies": {
     "base-64": "^0.1.0",
-    "elementum-challenge": "^1.0.1"
+    "elementum-challenge": "^1.0.1",
+    "socket.io-client": "^2.0.4"
   }
 }
